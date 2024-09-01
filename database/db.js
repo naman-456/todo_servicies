@@ -1,1 +1,1 @@
-export default [{"work_desc":"Watching javascript lectures","date":"2024-08-11"},{"work_desc":"Practice js Promise questions","date":"2024-08-11"}]
+export default [{"work_desc":"Watching javascript lectures","date":"2024-08-11"},{"work_desc":"Practice js Promise questions","date":"2024-08-11"},{"work_desc":"wash entire week clothes","date":"2024-08-31"},{"work_desc":"Go outside for dinner","date":"2024-09-01"},{"work_desc":"Go outside for dinner","date":"2024-09-01"},{"work_desc":"Playing Cricket","date":"2024-09-01"}]
